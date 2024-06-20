@@ -17,4 +17,4 @@ Start the Stopwatch: Click on the "Start" button to begin timing.
 Stop the Stopwatch: Click on the "Stop" button to pause the timing.
 Reset the Stopwatch: Click on the "Reset" button to reset the timer to zero.
 
-HERE IS THE LINK FOR DEMO :
+HERE IS THE LINK FOR DEMO :  https://shivani-joshi21.github.io/Prasunet_WD_02-STOPWATCH/
